@@ -1,0 +1,11 @@
+D:\ComplexCheckers\ComplexCheckers\bin\Release\ComplexCheckers.exe.config
+D:\ComplexCheckers\ComplexCheckers\bin\Release\ComplexCheckers.exe
+D:\ComplexCheckers\ComplexCheckers\bin\Release\ComplexCheckers.pdb
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.csprojAssemblyReference.cache
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.Form1.resources
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.playing.resources
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.Properties.Resources.resources
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.csproj.GenerateResource.cache
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.exe
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.pdb
+D:\ComplexCheckers\ComplexCheckers\obj\Release\ComplexCheckers.MainMenu.resources
